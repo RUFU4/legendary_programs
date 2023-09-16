@@ -20,4 +20,5 @@ def task4():
             x.append(int(u))
     print(summa(x))
 
+
 task4()
