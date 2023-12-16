@@ -15,7 +15,7 @@ def vector_multiply(cora, corb):
 
 
 for k in range(4):
-    print('Введите' + str(k) + 'кординату вектора')
+    print('Введите' + ' ' + str(k) + ' ' + 'кординату 1 и 2 вектора')
     cor1.append(int(input()))
     cor2.append(int(input()))
 
